@@ -13,3 +13,18 @@ Simple Calculator
 I also worked on a basic data processing project to calculate the average temperature using user input and loops.
 Through these tasks, I improved my understanding of Python syntax, logical thinking, and problem-solving skills.
  I also learned how to take user input, perform calculations, and display outputs effectively.
+
+
+week 2 :-
+
+summary :-
+
+In Week 2, I learned Python data structures including lists, tuples, dictionaries, and sets. 
+I also studied functions, lambda functions, recursion, and list comprehension.
+
+I practiced data transformations by creating programs to calculate the sum of squares and 
+filter data using list comprehensions. Additionally, I developed a data cleaning script that removed duplicate values and 
+filtered data based on specific conditions.
+
+These activities improved my understanding of data organization, 
+function creation, and basic data preprocessing techniques used in data science.
