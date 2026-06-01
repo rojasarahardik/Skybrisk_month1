@@ -24,3 +24,18 @@ print("\nOriginal Data:", data)
 print("Duplicate Values Removed:", duplicates)
 print("Cleaned Data:", unique_data)
 print("Filtered Data:", filtered_data)
+
+
+"""
+summary :-
+
+In Week 2, I learned Python data structures including lists, tuples, dictionaries, and sets. 
+I also studied functions, lambda functions, recursion, and list comprehension.
+
+I practiced data transformations by creating programs to calculate the sum of squares and 
+filter data using list comprehensions. Additionally, I developed a data cleaning script that removed duplicate values and 
+filtered data based on specific conditions.
+
+These activities improved my understanding of data organization, 
+function creation, and basic data preprocessing techniques used in data science.
+"""
