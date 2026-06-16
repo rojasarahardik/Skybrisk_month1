@@ -40,3 +40,20 @@ I performed data operations using NumPy and worked with datasets using Pandas.
 For the client project, I cleaned a dataset by removing missing values and calculated average values from the cleaned data.
 
 This week helped me understand how data is stored, processed, cleaned, and analyzed using Python libraries commonly used in Data Science.
+
+week 4:-
+
+summary :-
+
+In Week 4, I learned data visualization techniques using Matplotlib and Seaborn. 
+I studied different types of plots such as bar charts, histograms, scatter plots, 
+and explored how visualizations help in understanding data patterns and relationships.
+
+For the hands-on activities, I created visualizations to analyze datasets. 
+In the client project, I developed a simple dashboard using scatter plots and 
+histograms to visualize the relationship between study hours and student marks.
+
+This week improved my ability to present data visually, identify trends, 
+and communicate insights effectively using Python visualization libraries.
+
+
