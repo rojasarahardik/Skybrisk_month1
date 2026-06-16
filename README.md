@@ -28,3 +28,15 @@ filtered data based on specific conditions.
 
 These activities improved my understanding of data organization, 
 function creation, and basic data preprocessing techniques used in data science.
+
+week 3:-
+
+summary :-
+
+In Week 3, I learned NumPy arrays, array operations, and basic numerical computations. 
+I also studied Pandas DataFrames, Series, indexing, and data manipulation techniques.
+
+I performed data operations using NumPy and worked with datasets using Pandas. 
+For the client project, I cleaned a dataset by removing missing values and calculated average values from the cleaned data.
+
+This week helped me understand how data is stored, processed, cleaned, and analyzed using Python libraries commonly used in Data Science.
